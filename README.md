@@ -1,1 +1,1 @@
-# rsschool-cv
+gh-pages

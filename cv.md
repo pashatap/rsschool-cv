@@ -3,7 +3,7 @@
 ### Contact
 * __Location:__ Minsk, Belarus
 * __Email:__ pashatap@gmail.com
-* __GitHub:__[Pavel_Tarasuga](https://github.com/pashatap)
+* __GitHub:__ [Pavel_Tarasuga](https://github.com/pashatap)
 
 ### About me
 I work as a Software Engineer with experience in developing desktop applications and embedded systems. My technical proficiency includes PyQt, Django, and microcontroller firmware development.

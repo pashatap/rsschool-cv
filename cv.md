@@ -34,5 +34,5 @@ In addition to software development, I have an understanding of embedded systems
      - A2->B1
 * __Russian__
     _Level:_
-       - Native
+     - Native
 

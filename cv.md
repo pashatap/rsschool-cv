@@ -17,8 +17,8 @@ I am working Software Engineer
 
 ### Education
 * __University:__ 
- + Belarusian State University of Food and Chemical Technologies,Software engineer
-  - 2017-2021 
+    + Belarusian State University of Food and Chemical Technologies,Software engineer
+        - 2017-2021 
 
 
 ### Languages

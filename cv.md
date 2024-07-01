@@ -32,7 +32,7 @@ In addition to software development, I have an understanding of embedded systems
 * __English__  
     _Level:_
      - A2->B1
-* __Russian__ 
-     _Level:_
+* __Russian__
+    _Level:_
        - Native
 

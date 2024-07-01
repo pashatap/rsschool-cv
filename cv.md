@@ -29,10 +29,9 @@ In addition to software development, I have an understanding of embedded systems
 
 ### Languages
 
-* __English__  
-    _Level:_
-     - A2->B1
-* __Russian__
-    _Level:_
-     - Native
+- **English**
+  - Level: A2 -> B1
+
+- **Russian**
+  - Level: Native
 

@@ -30,8 +30,8 @@ In addition to software development, I have an understanding of embedded systems
 ### Languages
 
 - **English**
-  - Level: A2 -> B1
+  - Level: _A2 -> B1_
 
 - **Russian**
-  - Level: Native
+  - Level: _Native_
 

@@ -18,6 +18,7 @@
                     <li><a href="#Languages">Languages</a></li>
                     <li><a href="#contacts">Contacts</a></li>
                     <li><a href="#Education">Education</a></li>
+                    <li><a href="#Work-Expirience">Work Expirience</a></li>
                     <li><a href="#Code-Example">Code Example</a></li>
                 </ul>
             </nav>
@@ -25,7 +26,8 @@
 
     </header>
     <main class="main">
-        <section class="column-left"><img class="main-logo" src="photo.jpg" alt="Pavel Tarasuga"></section>
+        <section class="column-left"><img class="main-logo" src="photo.jpg" width="198" height="200"
+                alt="Pavel Tarasuga"></section>
 
         <section class="column-right">
             <h1>Pavel Tarasuga</h1>
@@ -34,7 +36,11 @@
 
         <section class="column-left" id="Contacts">
             <h2>Contacts</h2>
-                <ul><li><img src="" alt=""></li></ul>
+
+            <div class="contact-item"><img src="github.svg" alt="Github"><a href="https://github.com/pashatap"> Pavel
+                    Tarasuga</a></div>
+            <div class="contact-item"><img src="envelope.svg" alt="Email"> pashatap@gmail.com</div>
+            <div class="contact-item"><img src="geo-alt.svg" alt="Location"> Minsk,Belarus</li>
         </section>
 
         <section class="column-right" id="about-me">
@@ -53,20 +59,132 @@
             <p>In addition to software development, I have an understanding of embedded systems, specifically with STM32
                 and ESP32 microcontrollers.</p>
         </section>
-        <section class="column-left" id="Skills">
+        <section class="column-left column-skills" id="Skills">
             <h2>Skills</h2>
+            <p>Python</p>
+            <p>Numpy,Pandas</p>
+            <p>PyQt</p>
+            <p>Django</p>
+            <p>Html</p>
+            <p>Css</p>
+            <p>JavaScript</p>
+            <p>PostgreSql</p>
+            <p>Docker</p>
+            <p>git&Github</p>
+            <p>C</p>
+            <p>Cmake</p>
+
         </section>
-        <section class="column-right" id="">
+        <section class="column-right" id="Work-Expirience">
             <h2>Work Expirience</h2>
+
+            <h4>Niva-Holding</h4>
+            <div>14.02.2023-Currently working</div>
+
+            <p>Software Engineer</p>
+            <h4>Job Responsibilities:</h4>
+            <h6>Desktop Project with Python and Qt</h6>
+            <ul>
+                <li>Developing applications using Python and Qt framework.</li>
+                <li>Designing user interfaces using modern methods and best practices.</li>
+                <li>Designing and optimizing functionality for efficient data storage and processing.</li>
+                <li>Interacting with PostgreSQL database to ensure application reliability and performance.</li>
+                <li>Actively participating in project version management using Git version control system.</li>
+                <li>Collaborating with development team through remote repository on GitHub platform.</li>
+                <li>Applying Docker for project deployment flexibility and reliability.</li>
+                <li>Integrating and using Modbus protocol for communication with devices and controllers.</li>
+            </ul>
+
+            <h6>Web Project Development with Django</h6>
+            <ul>
+                <li>Contributing to web application development using Django.</li>
+                <li>Creating server-side logic, request handling, and database management.</li>
+                <li>Using Django ORM for data handling and application security.</li>
+                <li>Enhancing skills in web development, including templates, forms, and user authentication.</li>
+            </ul>
+
+            <h6>STM32 Controller Programming with C</h6>
+            <ul>
+                <li>Writing and debugging software for STM32 microcontrollers in C language.</li>
+                <li>Working with graphical displays for creating user interfaces on microcontrollers.</li>
+                <li>Integrating and using Modbus protocol for communication with other devices and systems.</li>
+            </ul>
+
+
+            <h4>Minsk State Technologcal College</h4>
+            <div>01.08.2021-13.02.2023</div>
+
+            <p>Software Engineer/System Administrator</p>
+            <h4>Job Responsibilities:</h4>
+            <h6>Work with CMS Joomla</h6>
+            <ul>
+                <li>Configuring, administering, and maintaining websites on CMS Joomla.</li>
+                <li>Developing and configuring templates to meet the needs of the college.</li>
+                <li>Optimizing website performance and ensuring their security.</li>
+                <li>Creating and configuring modules and plugins to extend website functionality.</li>
+            </ul>
+            <h6>Computer Support and Maintenance</h6>
+            <ul>
+                <li>Installing software and operating systems.</li>
+                <li>Troubleshooting and fixing issues.</li>
+                <li>Regular software updates and data backups.</li>
+                <li>Training users on security matters.</li>
+                <li>Configuring and maintaining peripheral devices (printers, scanners, etc.).</li>
+            </ul>
+
+            <h6>Creating Local Networks</h6>
+            <ul>
+                <li>Designing, configuring, and securing network infrastructure.</li>
+                <li>Creating and maintaining local networks.</li>
+                <li>Installing and configuring routers and switches.</li>
+                <li>Ensuring uninterrupted operation and monitoring of network equipment.</li>
+            </ul>
+
+            <h6>Installation and Configuration of Accounting Software</h6>
+            <ul>
+                <li>Installing and configuring accounting software packages and state reporting programs.</li>
+                <li>Selecting, configuring, and providing technical support for software (FSZN portal, Certificate
+                    Manager, etc.).</li>
+                <li>Training users to work with accounting software.</li>
+                <li>Ensuring data security and backing up accounting systems.</li>
+            </ul>
         </section>
         <section class="column-left" id="Education">
             <h2>Education</h2>
+            <div>01.09.2017-01.07.2021</div>
+            <p>University:</p>
+            <p>Belarusian State University of Food and Chemical Technologies
+            </p>
+            <p>Speciality:</p>
+            <p> Software Engineer</p>
         </section>
         <section class="column-right" id="Code-Example">
             <h2>Code Example</h2>
+            <pre>
+                <code>
+                    function calculateSum() {
+                        var num1 = 10;
+                        var num2 = 5;
+                        var sum = num1 + num2;
+                        console.log('Сумма чисел ' + num1 + ' и ' + num2 + ' равна: ' + sum);
+                        alert('Сумма чисел ' + num1 + ' и ' + num2 + ' равна: ' + sum);
+                    }
+
+                    function showMessage() {
+                        alert('Привет, мир!'); 
+                    }
+                </code>
+            </pre>
         </section>
         <section class="column-left" id="Languages">
             <h2>Languages</h2>
+            <ul>
+                <li>Russian</li>
+                <p>Native</p>
+                <li>English</li>
+                <p>A2->B1(I'm improving my skills on the course)</p>
+
+            </ul>
         </section>
     </main>
     <footer>

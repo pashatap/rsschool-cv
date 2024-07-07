@@ -1,29 +1,59 @@
-body {
-    margin: 0;
-    padding: 0;
+.header{
+    background-color: #ffe600;
 }
-
 nav ul {
     display: flex;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    justify-content:space-between;
 }
 
-
-.main-logo{
+nav ul a{
+    text-decoration: none;
+}
+.main-logo {
     border-radius: 50%;
 }
 
-.main{
+.main {
     display: flex;
     flex-wrap: wrap;
 }
 
-.column-left{
-    width: 40%;
+.column-left {
+    background-color: #f1f1f1;
+    width: 30%;
+    
 }
 
-.column-right{
+.column-right {
     width: 60%;
+}
+.column-skills{
+    max-height: 30%;
+}
+
+#Contacts ul li {
+    list-style-type: none;
+
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin:10px;
+}
+
+.contact-item img {
+    width: 24px; /* Adjust size as needed */
+    height: 24px; /* Adjust size as needed */
+    margin-right: 10px; /* Space between the icon and the text */
+}
+
+.contact-item a {
+    text-decoration: none;
+    color: #333;
+}
+
+.contact-item a:hover {
+    color: #0073e6;
 }

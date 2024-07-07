@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+.main-logo{
+    border-radius: 50%;
+}
+
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.column-left{
+    width: 40%;
+}
+
+.column-right{
+    width: 60%;
+}

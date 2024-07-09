@@ -57,3 +57,7 @@ nav ul a{
 .contact-item a:hover {
     color: #0073e6;
 }
+.footer{
+    display: flex;
+    justify-content: space-around;
+}
